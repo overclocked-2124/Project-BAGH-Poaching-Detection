@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/ML_training
 /.pnp
 .pnp.js
 
